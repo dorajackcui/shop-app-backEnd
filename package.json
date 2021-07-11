@@ -5,9 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "start": "node index.js",
     "devStart": "nodemon index.js",
-    "importData": "node seederScript.js",
-    "start": "node index.js"
+    "importData": "node seederScript.js"
   },
   "keywords": [],
   "author": "",
